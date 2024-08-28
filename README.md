@@ -30,3 +30,8 @@ The Arts, Entrepreneurship, and Innovation Lab at the Center for Cultural Affair
 - **Policy and Government Officials:** To inform and shape policies that support the arts and cultural sector.
 - **Arts Practitioners:** To understand the challenges and needs of artists in New York.
 - **General Public:** To raise awareness of the program's impact and the role of artists in the cultural ecosystem.
+
+## Visualization
+
+Check out a visual exploration of New York's artist community: [View Visualization](https://infogram.com/a-visual-exploration-of-new-yorks-artist-community-1h984wv35kv0d2p?live)
+
